@@ -2,9 +2,9 @@
 
 If I need a new app, I build it, I don't download it..
 
-By day I lead innovation at TCS in Paris, between AI, quantum and space. In the evenings I build, around forty apps and tools so far, each one made with Claude Code to scratch a real itch of mine.. I am not a professional programmer: I direct the build, judge the result, and rebuild what does not survive real use..
+I am not a professional programmer: I direct the build, judge the result, and rebuild what does not survive real use..
 
-It is not about the hammer; the trick is always in the hammering.. The repositories stay private, the lessons do not. Below is a selection of what I have built, and what each one taught me..
+Below is a selection of what I have built, and what each one taught me..
 
 ## Selected builds
 
