@@ -14,7 +14,6 @@ Below is a selection of what I have built, and what each one taught me..
 | **Strategy Guru** | A private AI advisory firm: six advisors with their own agendas and rivalries, a board, and a CEO who can hire and fire them.. | Next.js, TypeScript, Claude |
 | **Liminal** | A 3D scroll journey through time, the soul and identity, where you ask a question and the answer arrives as an experience.. | React, Three.js |
 | **Outfit Advisor** | My wardrobe, photographed and catalogued, suits and watches matched by colour harmony, with a dashboard of what I actually wear.. | Node.js, JavaScript |
-| **iPhone 18 Pro, rebuilt** | The phone rebuilt in 3D code from a public teardown, one part at a time, each checked for clearance and clashes before the next goes in.. | Three.js |
 | **SeeFuture** | Puts a trend or weak signal in front of eleven expert councillors, each with a different lens, to spot an opportunity before it goes mainstream.. | Node.js, Claude |
 | **Panopticon** | A digital twin of a team: watch its dynamics unfold in real time, then drop in an event and see how the team responds.. | Node.js, React |
 | **Canyon** | A scrollable mobile app that explains ordinary things in depth (zippers, table fans, tea versus chai), so curiosity always has something to chew on.. | React, Vite, Vercel |
