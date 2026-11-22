@@ -2,9 +2,9 @@
 
 If I need a new app, I build it, I don't download it..
 
-I am not a professional programmer: I direct the build, judge the result, and rebuild what does not survive real use..
+I am not a professional programmer: I direct the build, judge the result, and question what does not survive real use..
 
-Below is a selection of what I have built, and what each one taught me..
+Below is a selection of what I have built
 
 ## Selected builds
 
@@ -22,8 +22,6 @@ Below is a selection of what I have built, and what each one taught me..
 | **Dojo** | Learn a book, prove it, then live it: spaced repetition, teach-backs, and applying the book's framework to a real situation.. | Node.js, SQLite, React |
 | **Control Tower** | A read-only dashboard of what my AI agents did: live states, a session tree, cost, and the guardrails each agent broke.. | React, Node.js |
 
-## What the building taught me
 
-Human beings have a pattern which has no pattern, so every app met a real user and changed.. The ones that lasted were the ones I used myself every week..
 
 If you are building something similar, or curious how one of these was made, I am always happy to compare notes :)
