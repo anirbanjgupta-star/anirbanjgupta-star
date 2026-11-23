@@ -1,10 +1,10 @@
 # Anirban Gupta
 
-If I need a new app, I build it, I don't download it..
+If I need a new app, I build it, I don't download it
 
-I am not a professional programmer: I direct the build, judge the result, and question what does not survive real use..
+I am not a professional programmer: I direct the build, judge the result, and question what does not survive real use
 
-Below is a selection of what I have built
+Below is a selection of what I have built:
 
 ## Selected builds
 
